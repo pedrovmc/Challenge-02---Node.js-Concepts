@@ -3,7 +3,7 @@
 Gostack 11 Challenge - Node.js Concepts (My solution)
 </h1>
 
-<p align="center">This will be an application to storage repositories of your portfolio, that will allow you to list, update, and delete repositories, and besides that, the repositories can also receive likes.</p>
+<p align="center">An application to storage repositories of your portfolio, that will allow you to list, update, and delete repositories, and besides that, the repositories can also receive likes.</p>
 <p align="center">Challenge Link: https://github.com/rocketseat-education/bootcamp-gostack-desafios/blob/master/desafio-conceitos-nodejs/README.en.md</p>
 
 <p align="center">
